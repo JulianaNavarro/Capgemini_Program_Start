@@ -19,9 +19,12 @@
 
 number = input("Digite um número entre 1 a 100\n")
 
-while number <= 100:
+while (number < 100):
     print(number)
-    number += 1
+    number = number + 1
+else:
+    print("O loop while foi encerrado com sucesso!")
+
 
 
 # -----------------------------------------------------------------
