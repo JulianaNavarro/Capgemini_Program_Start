@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Scratch",
+            "request": "launch",
+            "mainClass": "Scratch",
+            "projectName": "Capgemini_exercise_47dacf4"
+        },
+        {
             "name": "Python: Arquivo Atual",
             "type": "python",
             "request": "launch",
