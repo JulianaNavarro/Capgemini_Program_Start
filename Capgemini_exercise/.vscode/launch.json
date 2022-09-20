@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Capgemini_exercise_47dacf4"
+        },
+        {
+            "type": "java",
             "name": "Launch Scratch",
             "request": "launch",
             "mainClass": "Scratch",
